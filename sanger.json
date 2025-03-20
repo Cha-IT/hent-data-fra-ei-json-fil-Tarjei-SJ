@@ -1,0 +1,48 @@
+[
+  {
+    "tittel":"Whiplash",
+    "artist":"Metallica",
+    "album":"Kill 'Em All",
+    "sjanger":"Thrash metal",
+    "anmeldelse":"Whiplash er en av de mest kjente sangene til Metallica, og er en av de mest kjente sangene innenfor thrash metal-sjangeren.",
+    "bilde":"metallica.jpeg",
+    "link":"https://www.youtube.com/embed/beWvPkYHaic"
+  },
+
+  {
+    "tittel": "Cheesecake",
+    "artist": "Camaros",
+    "album": "Cheesecake",
+    "sjanger": "Rock",
+    "anmeldelse": "Cheesecake er en energisk rockelåt av det norske bandet Camaros.",
+    "bilde": "camaros.jpeg",
+    "link": "https://www.youtube.com/embed/KTO_luCFnMU"
+  },
+  {
+    "tittel": "Sonic Reducer",
+    "artist": "Dead Boys",
+    "album": "Young Loud and Snotty",
+    "sjanger": "Punk rock",
+    "anmeldelse": "Sonic Reducer er en klassisk punk rock-sang av Dead Boys.",
+    "bilde": "deadboys.jpeg",
+    "link": "https://www.youtube.com/embed/-3YbedLa5I0"
+  },
+  {
+    "tittel": "Seek and Destroy",
+    "artist": "Metallica",
+    "album": "Kill 'Em All",
+    "sjanger": "Thrash metal",
+    "anmeldelse": "Seek and Destroy er en av de mest kjente sangene til Metallica.",
+    "bilde": "metallica2.jpeg",
+    "link": "https://www.youtube.com/embed/FLTchCiC0T0"
+  },
+  {
+    "tittel": "Liberate",
+    "artist": "Disturbed",
+    "album": "Believe",
+    "sjanger": "Nu metal",
+    "anmeldelse": "Liberate er en kraftfull nu metal-sang av Disturbed.",
+    "bilde": "disturbed.jpeg",
+    "link": "https://www.youtube.com/embed/hf__HuNwHGU"
+  }
+]
